@@ -37,21 +37,24 @@ body {
 	width: 700px;
 }
 
-h1 {
+.title {
 	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
 }
 
-.counter-tasks {
+.counter-task {
 	margin: 40px 0;
 	display: flex;
 	justify-content: space-around;
+	border-radius: 20px;
 }
 
-.counter-tasks h3 {
+.counter-task h3 {
 	font-weight: 500;
+	font-family: 'Times New Roman', Times, serif;
 }
 
-.counter-tasks span {
+.counter-task span {
 	color: #f29559;
 	font-weight: 700;
 	font-size: 24px;
@@ -159,6 +162,7 @@ form {
 	text-align: center;
 	margin-bottom: 40px;
 	font-size: 24px;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 .input-add {

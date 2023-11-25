@@ -24,7 +24,7 @@ function App() {
             </div>
 
             <div className="card-task">
-                <h1>Lista de Tareas</h1>
+                <h1 className='title'>Lista de Tareas</h1>
 
                 <div className="counter-task">
                     <h3>N° Tareas: <span>{tasksCount}</span></h3>
