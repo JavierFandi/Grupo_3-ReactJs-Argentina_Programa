@@ -31,11 +31,11 @@ export const TaskAdd = ({handleNewTask}) => {
                 name="description"
                 value={description}
                 onChange={onInputChange}
-                placeholder="¿Que hay que hacer?"
+                placeholder="¿What is there do?"
 
             />
 
-            <button className="btn-add" type="submit">Agregar</button>
+            <button className="btn-add" type="submit">Add</button>
         </form>
     )
 }

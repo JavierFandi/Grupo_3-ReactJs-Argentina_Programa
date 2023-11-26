@@ -14,6 +14,13 @@ video {
 	z-index: -2;
 }
 
+.made{
+	padding-top: 30px;
+	text-align: right;
+	opacity: .4;
+	
+}
+
 :root {
 	--rojo: #ba181b;
 	--azul: #00b4d8;
