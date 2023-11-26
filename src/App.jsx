@@ -1,8 +1,9 @@
 import React from 'react'
-import { TaskList } from './components/taskList'
-import { TaskAdd } from './components/TaskAdd'
+import { TaskAdd, TaskList } from './components'
 import { UseTasks } from './components/hooks/UseTask'
 import './App.css'
+
+
 
 
 function App() { 

@@ -1,6 +1,6 @@
 import React, { useRef, useState } from "react"
 import { FaEdit } from "react-icons/fa";
-import { UseForm } from "./hooks/UseForm";
+import { UseForm } from "../hooks/UseForm";
 
 
 export const TaskUpdate = ({task, handleUpdateTask}) => {

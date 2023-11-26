@@ -1,7 +1,8 @@
 import React from "react"
 import { FaTrash } from "react-icons/fa";
-import { TaskUpdate } from "./TaskUpdate"
+import { TaskUpdate } from "../TaskUpdate/TaskUpdate";
 
+TaskUpdate
 export const Task = ({
     task,
     handleUpdateTask,
