@@ -21,7 +21,7 @@ function App() {
     return(
         <>
             <div>
-                <video src="src\assets\galaxy_space.mov" autoplay="true" muted="true" loop="true" ></video>
+                <video src="src\assets\galaxy_space.mp4" autoplay="true" muted="true" loop="true" ></video>
             </div>
 
             <div className="card-task">
